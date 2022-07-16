@@ -1,6 +1,7 @@
 <h1 align="center"> Hey 👋🏻, I'm Nikita Derevyankin </h1>
 <img align="right" alt="" src="https://i.imgur.com/Np8GT8Z.png" />
 <br/>
+<br/>
 <h2 align="center">
     I create user experiences that are:
 </h2>
