@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-
+<!-- 
 <h2 align="center">
   Here are some technologies I use at work:
 </h2>
@@ -71,3 +71,4 @@
 </p>
 
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
+ -->
