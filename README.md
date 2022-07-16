@@ -1,9 +1,10 @@
 <h1 align="center"> Hey 👋🏻, I'm Nikita Derevyankin </h1>
+<img align="right" alt="" src="https://i.imgur.com/Np8GT8Z.png" />
 <br/>
 <h2 align="center">
     I create user experiences that are:
 </h2>
-<img align="right" alt="Person coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img align="right" alt="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 - **Responsive ✅**
 - **Intuitive 🤩**
