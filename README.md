@@ -3,7 +3,7 @@
 <h2 align="center">
     I create user experiences that are:
 </h2>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" alt="Person coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 
 - **Responsive ✅**
 - **Intuitive 🤩**
@@ -71,5 +71,3 @@
 </p>
 
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
-
-⭐️ From [chandan-reddy-k](https://github.com/chandan-reddy-k)
