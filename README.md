@@ -1,4 +1,4 @@
-<h1 align="center"> Hey 👋🏻🏽, I'm Nikita Derevyankin </h1>
+<h1 align="center"> Hey 👋🏻, I'm Nikita Derevyankin </h1>
 <br/>
 <h2 align="center">
     I create user experiences that are:
