@@ -59,7 +59,7 @@
 </h3>
 <br/>
 <p align="center">
- <a href="mailto:dronikosha@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="35" height="35" alt="mail"></a> &nbsp; &nbsp;
+ <a href="dronikosha@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="35" height="35" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/dronikosha"><img src="https://svgshare.com/i/j9z.svg" width="35" height="35"></a> &nbsp; &nbsp;
   <a href="https://t.me/Dronikon"><img src="https://svgshare.com/i/jA8.svg" width="35" height="35"></a> &nbsp; &nbsp;
   
